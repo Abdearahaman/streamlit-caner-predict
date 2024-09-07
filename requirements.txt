@@ -4,4 +4,4 @@ pickle
 plotly
 scikit_learn
 xgboost
-streamit
+streamlit
