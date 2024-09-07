@@ -1,0 +1,28 @@
+
+p {
+    color:#b4b4b2f5;
+}
+
+
+.st-emotion-cache-j5r0tf {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: black;
+    color:#161D6F;
+}
+
+
+.st-emotion-cache-10trblm {
+    color: #910e91;
+}
+.diagnosis {
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+    background-color: #fff;
+}
+.diagnosis.benign {
+    background-color: green;
+}
+.diagnosis.malicious {
+  background-color: red;
+}
